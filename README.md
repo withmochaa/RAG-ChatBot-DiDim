@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/beodidim10.jpg" alt="버디딤 로고" width="400"/>
+  <img src="./images/beodidim3.png" alt="버디딤 로고" width="400"/>
   <h1>버디딤(BuddyDim): 세종대학교 외국인 유학생을 위한 AI 챗봇</h1>
   <p>세종대학교 외국인 유학생들의 학교생활 적응을 돕기 위해 개발된 AI 백과사전 서비스입니다.</p>
 </div>
@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="./images/beodidim6.jpg" alt="프로젝트 소개" width="800"/>
+  <img src="./images/beodidim6.png" alt="프로젝트 소개" width="800"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 > 학생들이 느끼는 다양한 불편함이 있습니다. 저희는 여기서 소수의 외국인 학생들의 소리에 귀 기울였습니다.
 
 <div align="center">
-  <img src="./images/beodidim1.jpg" alt="문제 상황" width="800"/>
+  <img src="./images/beodidim1.png" alt="문제 상황" width="800"/>
 </div>
 
 <br>
@@ -33,7 +33,7 @@
 > 학교생활에서 가장 어렵게 느껴지는 건 상대적으로 정보를 쉽게 얻을 수 없다는 점입니다. 버디딤은 이 문제를 해결합니다.
 
 <div align="center">
-  <img src="./images/beodidim9.jpg" alt="문제 해결" width="800"/>
+  <img src="./images/beodidim2.png" alt="문제 해결" width="800"/>
 </div>
 
 *   **#선택적 정보 습득**: 백과사전처럼 방대한 정보 속에서 필요한 정보만 콕! 짚어 찾아내 줍니다.
@@ -45,7 +45,7 @@
 ## 🎨 주요 기능
 
 <div align="center">
-  <img src="./images/beodidim8.jpg" alt="주요 기능" width="800"/>
+  <img src="./images/beodidim4.png" alt="주요 기능" width="800"/>
 </div>
 
 *   **다국어 지원**: Papago API를 활용해 사용자가 입력하는 언어를 탐지하고, 해당 언어에 맞춰 서비스를 제공합니다.
@@ -59,9 +59,9 @@
 
 | 엑셀 파일 시간표 업로드 | 사용하는 언어 선택 |
 | :---: | :---: |
-| <img src="./images/beodidim5.jpg" alt="시간표 업로드" width="350"/> | <img src="./images/beodidim5.jpg" alt="언어 선택" width="350" style="object-position: right;"/> |
+| <img src="./images/beodidim5.png" alt="시간표 업로드" width="350"/> | <img src="./images/beodidim5.png" alt="언어 선택" width="350" style="object-position: right;"/> |
 | **캐릭터 화면** | **채팅 화면** |
-| <img src="./images/beodidim4.jpg" alt="캐릭터 화면" width="350"/> | <img src="./images/beodidim4.jpg" alt="채팅 화면" width="350" style="object-position: right;"/> |
+| <img src="./images/beodidim4.png" alt="캐릭터 화면" width="350"/> | <img src="./images/beodidim4.png" alt="채팅 화면" width="350" style="object-position: right;"/> |
 
 <br>
 
@@ -69,12 +69,12 @@
 
 ### 시스템 구성도
 <div align="center">
-  <img src="./images/beodidim2.jpg" alt="서비스 아키텍처" width="800"/>
+  <img src="./images/beodidim2.png" alt="서비스 아키텍처" width="800"/>
 </div>
 
 ### AI 처리 과정
 <div align="center">
-  <img src="./images/beodidim3.jpg" alt="AI 처리 과정" width="800"/>
+  <img src="./images/beodidim3.png" alt="AI 처리 과정" width="800"/>
 </div>
 
 1.  **NLP 과정 (Sentence Transformer)**
@@ -103,7 +103,7 @@
 ## 👥 팀원 소개
 
 <div align="center">
-  <img src="./images/beodidim7.jpg" alt="팀원 소개" width="800"/>
+  <img src="./images/beodidim7.png" alt="팀원 소개" width="800"/>
 </div>
 
 | 역할 | 이름 |
@@ -112,4 +112,3 @@
 | **Front-end**| 김범수 |
 | **AI** | 김강민 |
 | **Designer** | 김희연 |
-
